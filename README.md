@@ -33,3 +33,4 @@ Join the ChatFusion community and experience the excitement of spontaneous conne
 **Contributions and Issues:**
 
 We welcome contributions from the open-source community to improve and expand ChatFusion's features. If you encounter any issues or have suggestions for enhancements, please feel free to open an issue or submit a pull request.
+Authors: Tanuj Saini, Ruchir Kumar, Vivek yadav
